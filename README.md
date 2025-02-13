@@ -132,7 +132,7 @@ Além disso, sou apaixonado por desafios e pela ideia de criar soluções que im
 />
 
 <br/>
-<br/>
+
 
 ### 📊 Estatísticas
 
