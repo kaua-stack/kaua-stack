@@ -154,4 +154,5 @@ Além disso, sou apaixonado por desafios e pela ideia de criar soluções que im
 
 </p>
 
-[prussian_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=prussian
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaua-stack&bg_color=172f45&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
