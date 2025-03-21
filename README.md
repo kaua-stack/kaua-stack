@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1👋;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!;:%29)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1👋;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!;:%29)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29
+)
 
 # 🖥📱💻 Kauã Alves
 
@@ -16,7 +17,7 @@ Além disso, sou apaixonado por desafios e pela ideia de criar soluções que im
 
   
 </div>
-##
+####
 📌 Atuando como desenvolvedor Full Stack em constante aprendizado.  <br>
 📌 Cursando Gestão de Tecnologia da Informação na UNICID. <br>
 📌 Apaixonado por tecnologia, desenvolvimento web e inovação!
@@ -139,7 +140,7 @@ Além disso, sou apaixonado por desafios e pela ideia de criar soluções que im
 
 </div>
 
-#####  Contatos:
+#####  <br> Contatos:
 
 <div> 
    <a href = "mailto:kalvesouza.2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
