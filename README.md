@@ -2,10 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1👋;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!;:%29)](https://git.io/typing-svg)
 
+# 🖥📱💻 Kauã Alves
+
+**`Desenvolvedora FullStack`**
+
+Olá, me chamo Kauã e sou de São Paulo. Tenho 20 anos e atualmente estou cursando Gestão de Tecnologia da Informação na UNICID. Tenho grande interesse na área de tecnologia e busco me tornar um Full Stack profissional, dominando tanto o front-end quanto o back-end.
+
+Minha jornada no desenvolvimento web começou recentemente, e estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript, React, Node.js, Python e Java. Acredito no poder da colaboração e na troca de conhecimentos como pilares para o sucesso. Estou sempre em busca de aprender e me aprimorar para contribuir com projetos completos e inovadores.
+
+Além disso, sou apaixonado por desafios e pela ideia de criar soluções que impactem positivamente o dia a dia das pessoas. Estou empolgado para evoluir cada vez mais e pronto para novas oportunidades na área de tecnologia.
+
+<div>  
+  <a href = "mailto:kalvesouza.2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauã-alves-001753313"(https://www.linkedin.com/in/kau%C3%A3-alves-001753313/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 ##
 📌 Atuando como desenvolvedor Full Stack em constante aprendizado.  <br>
 📌 Cursando Gestão de Tecnologia da Informação na UNICID. <br>
-📌 Técnico em Informática para Internet pelo Senac São Bernardo do Campo. <br>
 📌 Apaixonado por tecnologia, desenvolvimento web e inovação!
 
 #####  Trabalhando atualmente com:
