@@ -1,163 +1,84 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[[[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1👋;Bem-vindo(a)+ao+meu+reposit%C3%B3rio!;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
+# 🖥️ Kauã Alves
 
-# 🖥📱💻 Kauã Alves
+## 🚀 Desenvolvedor Full Stack
 
-**`Desenvolvedora FullStack`**
+Olá! Me chamo **Kauã Alves**, sou de São Paulo e tenho 20 anos. Atualmente, estou cursando **Gestão de Tecnologia da Informação** na UNICID e busco me tornar um **desenvolvedor Full Stack**.
 
-Olá, me chamo Kauã e sou de São Paulo. Tenho 20 anos e atualmente estou cursando Gestão de Tecnologia da Informação na UNICID. Tenho grande interesse na área de tecnologia e busco me tornar um Full Stack profissional, dominando tanto o front-end quanto o back-end.
+💡 Sou apaixonado por tecnologia e adoro desafios. Busco sempre aprimorar minhas habilidades e criar soluções inovadoras que impactem positivamente o dia a dia das pessoas.
 
-Minha jornada no desenvolvimento web começou recentemente, e estou focada em aprimorar minhas habilidades em HTML, CSS, JavaScript, React, Node.js, Python e Java. Acredito no poder da colaboração e na troca de conhecimentos como pilares para o sucesso. Estou sempre em busca de aprender e me aprimorar para contribuir com projetos completos e inovadores.
+🔎 Sempre aberto a novas oportunidades na área de tecnologia!
 
-Além disso, sou apaixonado por desafios e pela ideia de criar soluções que impactem positivamente o dia a dia das pessoas. Estou empolgado para evoluir cada vez mais e pronto para novas oportunidades na área de tecnologia.
+---
 
-<div>  
+## 🌐 Conecte-se comigo
 
-  
-</div>
-####
-📌 Atuando como desenvolvedor Full Stack em constante aprendizado.  <br>
-📌 Cursando Gestão de Tecnologia da Informação na UNICID. <br>
-📌 Apaixonado por tecnologia, desenvolvimento web e inovação!
-
-#####  Trabalhando atualmente com:
-
-<div>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+<div align="left">
+  <a href="mailto:kalvesouza.2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauã-alves-001753313/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-#####  <br> Contatos:
+---
 
-<div> 
-   <a href = "mailto:kalvesouza.2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauã-alves-001753313"(https://www.linkedin.com/in/kau%C3%A3-alves-001753313/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-    
-##
- 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauaalves&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Kauã Alves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaalves&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
-</div>
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kauaalves}/count.svg" /></p> 
-<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="JQuery" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45px"/>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
+---
+
+## 📌 Projetos em Destaque
+
+🔹 [Projeto ERP Landing Page](https://github.com/kaua-stack/erp-landing-page) - Uma página de apresentação para um sistema ERP.
+
+🔹 [Controle Financeiro com IA](https://github.com/kaua-stack/financeiro-ia) - Aplicação web para gerenciamento de finanças pessoais usando IA.
+
+🔹 [Em breve...] Mais projetos a caminho!
+
+---
+
+## 📊 Estatísticas do GitHub
+
+---
+
+<div align="left">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaua-stack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-stack&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas" />
+</div>
+
+---
+
+## 🚀 Atividade no GitHub
+
+[![Kauã's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaua-stack&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### 🎯 Visitantes:
+
+<div align="center">
+   <p><b>Contador de Visitantes:</b></p>
+   <p><img align="center" src="https://profile-counter.glitch.me/{kaua-stack}/count.svg" /></p>
+</div>
+
+---
+
+⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!**
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
