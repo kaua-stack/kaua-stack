@@ -46,8 +46,6 @@ Olá! Me chamo **Kauã Alves**, sou de São Paulo e tenho 20 anos. Atualmente, e
 
 ## 📌 Projetos em Destaque
 
-* [Projeto ERP Landing Page](https://github.com/kaua-stack/erp-landing-page) - Uma página de apresentação para um sistema ERP.
-* [Controle Financeiro com IA](https://github.com/kaua-stack/financeiro-ia) - Aplicação web para gerenciamento de finanças pessoais usando IA.
 * [Site Barbearia](https://kaua-stack.github.io/siteBarbearia/)
 * [Site Bootstrap](https://kaua-stack.github.io/siteBoostrap/)
 * [Painel ADM](https://kaua-stack.github.io/PainelADM/)
