@@ -6,7 +6,7 @@
 
 ## 🚀 Desenvolvedor Full Stack
 
-Olá! Me chamo **Kauã Alves**, sou de São Paulo e tenho 20 anos. Atualmente, estou cursando **Gestão de Tecnologia da Informação** na UNICID e busco me tornar um **desenvolvedor Full Stack**.
+Olá! Me chamo **Kauã Alves**, sou de São Paulo e tenho 21 anos. Atualmente, estou cursando **Gestão de Tecnologia da Informação** na UNICID e busco me tornar um **desenvolvedor Full Stack**.
 
 💡 Sou apaixonado por tecnologia e adoro desafios. Busco sempre aprimorar minhas habilidades e criar soluções inovadoras que impactem positivamente o dia a dia das pessoas.
 
