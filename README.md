@@ -64,13 +64,5 @@ Sou apaixonado por tecnologia, adoro desafios e estou sempre aprendendo novas fe
 
 ---
 
-## 🐍 Atividade GitHub
-
-<div align="center">
-  [![Kauã's GitHub Snake](https://github-readme-activity-graph.vercel.app/graph?username=kaua-stack&bg_color=00FF7F&color=FFFFFF&line=FFFFFF&point=00FF7F&area=true&hide_border=false)](https://github.com/kaua-stack)
-</div>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
 
