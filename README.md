@@ -8,7 +8,7 @@
 
 <div align="center">
 Olá! Sou <b>Kauã Alves</b>, tenho 21 anos e moro em São Paulo-SP.<br>
-Estou cursando <b>Gestão de Tecnologia da Informação</b> na UNICID.<br><br><br>
+Estou cursando <b>Gestão de Tecnologia da Informação</b> na UNICID.<br>
 Estou cursando <b> Informatica para internet </b>No Senac <br><br>
 Atualmente sou um <b>futuro Desenvolvedor Full Stack</b>, buscando minha primeira oportunidade como <b>Desenvolvedor Júnior</b>.<br>
 Sou apaixonado por tecnologia, adoro desafios e estou sempre aprendendo novas ferramentas e boas práticas de desenvolvimento.
