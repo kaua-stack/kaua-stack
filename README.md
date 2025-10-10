@@ -1,11 +1,6 @@
 <!-- CAPA E INTRODUÇÃO -->
 <div align="center">
   <img width="100%" src="capa.png" alt="Capa vermelha do portfólio"/>
-
-  <h1 style="color:#ffffff; font-family:'Poppins',sans-serif; margin-top:-80px; font-size:45px;">
-    Bem-vindo ao meu GitHub!
-  </h1>
-
   <img src="https://readme-typing-svg.herokuapp.com/?color=db6868&size=30&center=true&vCenter=true&width=800&lines=Sou+Kauã+Alves;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG">
   
   <hr style="width:60%; border:2px solid #e11111; border-radius:5px;">
