@@ -1,6 +1,6 @@
 <!-- CAPA E TÍTULO -->
 <div align="center">
-  <img width="100%" src="capa" alt="Capa do portfólio"/>
+  <img width="100%" src="bem vindo ao meu github.png" alt="Capa do portfólio"/>
   <h1 style="color: #ffffff; font-family: 'Poppins', sans-serif; margin-top: -80px; font-size: 40px;">
     Bem-vindo ao meu GitHub!
   </h1>
