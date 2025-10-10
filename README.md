@@ -74,9 +74,6 @@ Sou apaixonado por tecnologia, adoro desafios e estou sempre aprendendo novas fe
 </div>
 
 <br>
-
-<p align="center" style="color:#db6868;font-size:14px;">💡 Passe o mouse sobre os projetos para ver o efeito!</p>
-
 <!-- CONTATO -->
 <hr style="width:50%; border:1px solid #db6868; border-radius:5px;">
 
