@@ -37,7 +37,7 @@ Sou apaixonado por tecnologia, adoro desafios e estou sempre aprendendo novas fe
 
 <hr style="width:50%; border:1px solid #db6868; border-radius:5px;">
 
-<!-- PROJETOS COM ANIMAÇÃO -->
+<!-- PROJETOS COM ANIMAÇÃO 
 <h2 align="center" style="color:#e11111;">📌 Projetos em Destaque</h2>
 
 <div align="center" style="display:flex;flex-wrap:wrap;gap:30px;justify-content:center;font-family:'Poppins',sans-serif;">
@@ -71,9 +71,10 @@ Sou apaixonado por tecnologia, adoro desafios e estou sempre aprendendo novas fe
     <h3 style="color:#ffffff;">ApiCSharp</h3>
     <p>API em C# e .NET Core para manipulação de dados.</p>
   </div>
-</div>
+</div> 
 
-<br>
+<br>-->
+
 <!-- CONTATO -->
 <hr style="width:50%; border:1px solid #db6868; border-radius:5px;">
 
