@@ -13,7 +13,7 @@
 
 <div align="center" style="font-family:'Poppins',sans-serif; color:#ffafaf; font-size:16px; max-width:700px;">
 Sou <b style="color:#ffffff;">Kauã Alves</b>, tenho 21 anos e moro em <b>São Paulo-SP</b>.<br>
-Cursando <b>Gestão de Tecnologia da Informação</b> na <b>UNICID</b> e <b>Informática para Internet</b> no <b>SENAC</b>.<br><br>
+Formado em <b>Gestão de Tecnologia da Informação</b> na <b>UNICID</b> e Cursando <b>Informática para Internet</b> no <b>SENAC</b>.<br><br>
 Busco minha primeira oportunidade como <b>Desenvolvedor Júnior</b> e sonho em me tornar um <b>Desenvolvedor Full Stack</b>.<br>
 Sou apaixonado por tecnologia, adoro desafios e estou sempre aprendendo novas ferramentas e boas práticas.
 </div>
