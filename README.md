@@ -31,7 +31,6 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior**, co
 🌱 Aprendendo:                TypeScript e back-end com Node.js
 💬 Posso falar sobre:         front-end, JavaScript e desenvolvimento web
 📫 Contato:                   kauasouzaalves04@gmail.com
-⚡ Curiosidade:                113+ contribuições no último ano no GitHub
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=e11111&height=2&width=100%25"/>
