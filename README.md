@@ -31,6 +31,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior**, co
 🌱 Aprendendo:                TypeScript e back-end com Node.js
 💬 Posso falar sobre:         front-end, JavaScript e desenvolvimento web
 📫 Contato:                   kauasouzaalves04@gmail.com
+⚡ Curiosidade:                113+ contribuições no último ano no GitHub
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=e11111&height=2&width=100%25"/>
@@ -101,11 +102,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior**, co
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/dist/github-snake.svg" width="90%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/dist/github-snake.svg" width="90%"/>
 
 </div>
 
