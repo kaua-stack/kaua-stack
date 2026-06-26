@@ -102,14 +102,14 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior**, co
 <div align="center">
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/dist/github-snake-dark.svg](https://github.com/kaua-stack/kaua-stack/blame/output/github-snake-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/dist/github-snake.svg](https://github.com/kaua-stack/kaua-stack/blame/output/github-snake-dark.svg)">
-  <img align="center" alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/dist/github-snake.svg](https://github.com/kaua-stack/kaua-stack/blame/output/github-snake-dark.svg)" width="90%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/github-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaua-stack/kaua-stack/output/github-snake.svg" width="90%">
 </picture>
 
 </div>
 
-
+> 
 
 <br>
 
