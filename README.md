@@ -24,7 +24,7 @@
 
 > Tenho 22 anos e moro em **São Paulo - SP**. Sou formado em **Gestão de Tecnologia da Informação** pela **UNICID** e atualmente curso **Informática para Internet** no **SENAC**.
 
-Estou em busca da minha primeira oportunidade como **Desenvolvedor Júnior**, com o objetivo de evoluir e me tornar um **Desenvolvedor Full Stack**. Gosto de resolver problemas, aprender novas tecnologias e aplicar boas práticas de desenvolvimento no dia a dia.
+Estou em busca da minha primeira oportunidade como **Desenvolvedor **, com o objetivo de evoluir e me tornar um **Desenvolvedor Full Stack**. Gosto de resolver problemas, aprender novas tecnologias e aplicar boas práticas de desenvolvimento no dia a dia.
 
 ```
 🔭 Atualmente desenvolvendo:  projetos full stack em JS/TS, PHP e C#
